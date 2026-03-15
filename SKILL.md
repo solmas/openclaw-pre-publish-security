@@ -3,7 +3,7 @@ name: pre-publish-security
 description: Multi-layered security audit system for GitHub/ClawHub releases. Prevents credential leaks, detects vulnerabilities, validates documentation. Frequency-aware scanning (quick/history/dependencies). Blocks bad pushes automatically.
 version: 2.0.0
 author: solmas
-homepage: https://github.com/solmas/pre-publish-security
+homepage: https://github.com/solmas/openclaw-pre-publish-security
 license: MIT
 tags:
   - security
